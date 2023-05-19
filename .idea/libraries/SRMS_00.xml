@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SRMS-00">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/SRMS-00.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
